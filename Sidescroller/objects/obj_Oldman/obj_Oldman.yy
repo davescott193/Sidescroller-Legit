@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_Water",
-    "path": "sprites/spr_Water/spr_Water.yy",
+    "name": "Sprite93",
+    "path": "sprites/Sprite93/Sprite93.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_EnemyContactKill",
-    "path": "objects/obj_EnemyContactKill/obj_EnemyContactKill.yy",
+    "name": "obj_TextBoxController",
+    "path": "objects/obj_TextBoxController/obj_TextBoxController.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -23,7 +23,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +33,7 @@
     "path": "folders/Objects/Enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_HazardWater",
+  "name": "obj_Oldman",
   "tags": [],
   "resourceType": "GMObject",
 }

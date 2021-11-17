@@ -1,7 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 event_inherited()
-sprWalk = spr_CrabBoss
-sprAttack = spr_CrabBoss
-enemyHealth = 15
-attackDamage = 2
+text = "You are our last hope " + "\nFind the others and save humanity"
+text_y = 40; 
