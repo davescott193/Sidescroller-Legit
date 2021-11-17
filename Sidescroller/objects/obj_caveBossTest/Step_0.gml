@@ -1,4 +1,4 @@
-player = instance_find(obj_Player_PlaceHolder, 0);
+event_inherited();
 
 
 if (player != noone && point_distance(x,y+32,player.x,player.y) < 720)
@@ -27,14 +27,4 @@ if (player != noone && point_distance(x,y+32,player.x,player.y) < 720)
 	}
 }
 
-if (player != noone && player.x > x)
-{
-	direction = 0
-	image_xscale = 1;	
-}
-else if (player != noone && player.x < x)
-{
-	direction = 180
-	image_xscale = -1;	
-}
 
