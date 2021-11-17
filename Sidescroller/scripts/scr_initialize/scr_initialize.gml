@@ -19,4 +19,6 @@ function scr_initialize()
 	global.Helmet = false;
 	global.Chest = false;
 	global.Boots = false;
+	global.key_fullscreen = vk_enter;
+	global.key_testroom = vk_tab;
 }
