@@ -11,7 +11,7 @@ speedval = 0;
 patrol_length = 100;
 og_x = x;
 og_y = y;
-enemyHealth = 3;
+enemyHealth = 100;
 
 
 
