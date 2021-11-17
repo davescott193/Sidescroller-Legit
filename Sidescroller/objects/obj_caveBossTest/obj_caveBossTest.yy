@@ -36,7 +36,7 @@
     "path": "folders/Objects/Enemies/Level 3.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_caveBossTest",
+  "name": "obj_CaveBossTest",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -3,5 +3,5 @@
 event_inherited()
 sprWalk = spr_CrabBoss
 sprAttack = spr_CrabBoss
-enemyHealth = 20
+enemyHealth = 15
 attackDamage = 2

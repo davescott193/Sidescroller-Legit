@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_HazardWater",
-    "path": "sprites/spr_HazardWater/spr_HazardWater.yy",
+    "name": "spr_Water",
+    "path": "sprites/spr_Water/spr_Water.yy",
   },
   "solid": false,
   "visible": true,

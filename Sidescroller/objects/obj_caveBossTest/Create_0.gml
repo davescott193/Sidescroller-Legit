@@ -1,7 +1,6 @@
 enemyHealth = 10;
 speedval = 5;
 patrol_length = 200;
-setProjectile(obj_EnemyBullet)
 shoot_speed = 5
 
 burstTimer = 30
@@ -11,7 +10,7 @@ burstTimerCount = burstTimer
 burstDelayCount = burstDelay
 
 shoot_speed = 100;
-setProjectile(obj_peaProjectile);
+
 
 function ShootHorizontal() 
 {	
