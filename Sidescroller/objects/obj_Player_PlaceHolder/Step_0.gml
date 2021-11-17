@@ -92,6 +92,15 @@ if(vsp < 0) and (!key_jump_held)
 	vsp = max(vsp, -3);
 }
 
+if (mouse_x >= x)
+{
+	image_xscale = 1;
+}
+else
+{
+	image_xscale = -1;
+}
+
 
 #endregion
 
@@ -176,7 +185,8 @@ y += vsp;
 #endregion
 
 #region Current Status/Aminations
-//Calculate current status
+//Calculate current status	
+
 onground = place_meeting(x, y+groundbuffer, obj_TileParent);
 if(onground) 
 {
@@ -300,16 +310,6 @@ if (key_attackM && equippedWeapon != noone)
 	}
 }
 #endregion
-
-
-if (mouse_x >= x)
-{
-	image_xscale = 1;	
-}
-else
-{
-	image_xscale = -1;
-}	
 
 if (equippedWeapon != noone)
 {

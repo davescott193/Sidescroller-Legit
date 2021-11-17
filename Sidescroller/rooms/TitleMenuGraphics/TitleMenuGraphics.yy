@@ -25,7 +25,7 @@
     {"spriteId":{"name":"spr_Sand2","path":"sprites/spr_Sand2/spr_Sand2.yy",},"colour":4294967295,"x":0,"y":0,"htiled":true,"vtiled":true,"hspeed":0.0,"vspeed":0.0,"stretch":true,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
   "inheritLayers": false,
-  "creationCodeFile": "${project_dir}/rooms/TitleMenuOptions/RoomCreationCode.gml",
+  "creationCodeFile": "${project_dir}/rooms/TitleMenuGraphics/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_5FE7D118","path":"rooms/TitleMenuGraphics/TitleMenuGraphics.yy",},
