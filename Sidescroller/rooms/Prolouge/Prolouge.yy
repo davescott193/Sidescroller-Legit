@@ -16,22 +16,13 @@
     {"instances":[],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Fade","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
-
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutMovment","path":"objects/obj_TutMovment/obj_TutMovment.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":608.0,"resourceVersion":"1.0","name":"inst_4153ADF0","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutJump","path":"objects/obj_TutJump/obj_TutJump.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":608.0,"resourceVersion":"1.0","name":"inst_6A019FF4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutAttack","path":"objects/obj_TutAttack/obj_TutAttack.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1024.0,"y":512.0,"resourceVersion":"1.0","name":"inst_530AE2D4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutAmmo","path":"objects/obj_TutAmmo/obj_TutAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":928.0,"y":192.0,"resourceVersion":"1.0","name":"inst_4A40D787","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutAttack2","path":"objects/obj_TutAttack2/obj_TutAttack2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":928.0,"y":512.0,"resourceVersion":"1.0","name":"inst_3E1B2F27","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutCheckpoint","path":"objects/obj_TutCheckpoint/obj_TutCheckpoint.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":608.0,"resourceVersion":"1.0","name":"inst_49769EE4","tags":[],"resourceType":"GMRInstance",},
-
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutMovment","path":"objects/obj_TutMovment/obj_TutMovment.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":608.0,"resourceVersion":"1.0","name":"inst_4153ADF0","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutJump","path":"objects/obj_TutJump/obj_TutJump.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":608.0,"resourceVersion":"1.0","name":"inst_6A019FF4","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutAttack","path":"objects/obj_TutAttack/obj_TutAttack.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":512.0,"resourceVersion":"1.0","name":"inst_530AE2D4","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutAmmo","path":"objects/obj_TutAmmo/obj_TutAmmo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":864.0,"y":192.0,"resourceVersion":"1.0","name":"inst_4A40D787","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutAttack2","path":"objects/obj_TutAttack2/obj_TutAttack2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":512.0,"resourceVersion":"1.0","name":"inst_3E1B2F27","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutCheckpoint","path":"objects/obj_TutCheckpoint/obj_TutCheckpoint.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":608.0,"resourceVersion":"1.0","name":"inst_49769EE4","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutCheckpoint","path":"objects/obj_TutCheckpoint/obj_TutCheckpoint.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":608.0,"resourceVersion":"1.0","name":"inst_49769EE4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_TutArmor","path":"objects/obj_TutArmor/obj_TutArmor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":192.0,"resourceVersion":"1.0","name":"inst_5C8E1A59","tags":[],"resourceType":"GMRInstance",},
-
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Behind","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Checkpoint","path":"objects/obj_Checkpoint/obj_Checkpoint.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":608.0,"resourceVersion":"1.0","name":"inst_652657BE","tags":[],"resourceType":"GMRInstance",},
@@ -62,12 +53,9 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_shipmetal","path":"objects/obj_shipmetal/obj_shipmetal.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2912.0,"y":192.0,"resourceVersion":"1.0","name":"inst_BC6AA27","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Ammo","path":"objects/obj_Ammo/obj_Ammo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":224.0,"resourceVersion":"1.0","name":"inst_585E4E7E","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_shipmetal","path":"objects/obj_shipmetal/obj_shipmetal.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":24.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3008.0,"y":0.0,"resourceVersion":"1.0","name":"inst_6853AEBC","tags":[],"resourceType":"GMRInstance",},
-
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Boots","path":"objects/obj_Boots/obj_Boots.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":691.0,"y":210.0,"resourceVersion":"1.0","name":"inst_B39B83C","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Oldman","path":"objects/obj_Oldman/obj_Oldman.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":608.0,"resourceVersion":"1.0","name":"inst_32B294C3","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_shipmetal","path":"objects/obj_shipmetal/obj_shipmetal.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":25.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1824.0,"y":576.0,"resourceVersion":"1.0","name":"inst_CC3010B","tags":[],"resourceType":"GMRInstance",},
-
-
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Blocks","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"BasicWallTile5","path":"sprites/BasicWallTile5/BasicWallTile5.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":352.0,"resourceVersion":"1.0","name":"graphic_4692A53F","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -500,21 +488,18 @@
     {"name":"inst_1C1A9F91","path":"rooms/Prolouge/Prolouge.yy",},
     {"name":"inst_BC6AA27","path":"rooms/Prolouge/Prolouge.yy",},
     {"name":"inst_585E4E7E","path":"rooms/Prolouge/Prolouge.yy",},
-    {"name":"inst_4153ADF0","path":"rooms/Prolouge/Prolouge.yy",},
-    {"name":"inst_6A019FF4","path":"rooms/Prolouge/Prolouge.yy",},
     {"name":"inst_530AE2D4","path":"rooms/Prolouge/Prolouge.yy",},
     {"name":"inst_4A40D787","path":"rooms/Prolouge/Prolouge.yy",},
     {"name":"inst_3E1B2F27","path":"rooms/Prolouge/Prolouge.yy",},
-    {"name":"inst_49769EE4","path":"rooms/Prolouge/Prolouge.yy",},
-    
     {"name":"inst_6853AEBC","path":"rooms/Prolouge/Prolouge.yy",},
-
     {"name":"inst_B39B83C","path":"rooms/Prolouge/Prolouge.yy",},
     {"name":"inst_25A973AA","path":"rooms/Prolouge/Prolouge.yy",},
     {"name":"inst_32B294C3","path":"rooms/Prolouge/Prolouge.yy",},
     {"name":"inst_CC3010B","path":"rooms/Prolouge/Prolouge.yy",},
-
-
+    {"name":"inst_4153ADF0","path":"rooms/Prolouge/Prolouge.yy",},
+    {"name":"inst_6A019FF4","path":"rooms/Prolouge/Prolouge.yy",},
+    {"name":"inst_49769EE4","path":"rooms/Prolouge/Prolouge.yy",},
+    {"name":"inst_5C8E1A59","path":"rooms/Prolouge/Prolouge.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
