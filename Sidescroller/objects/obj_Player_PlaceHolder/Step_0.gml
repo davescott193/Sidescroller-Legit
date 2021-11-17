@@ -261,6 +261,11 @@ if(key_menu)
 {
 	scr_fade_out(TitleMenu, 0, 0);
 }
+
+if(keyboard_check_pressed(global.key_testroom))
+{
+	scr_fade_out(TestLevel, 95, 650);
+}
 #endregion
 
 #region Enemies
