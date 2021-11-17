@@ -22,7 +22,9 @@
     {"x":32.0,"y":32.0,},
     {"x":0.0,"y":32.0,},
   ],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ProjectileBase","path":"objects/obj_ProjectileBase/obj_ProjectileBase.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

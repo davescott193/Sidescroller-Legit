@@ -6,6 +6,7 @@ event_inherited();
 
 speedval = 5;
 patrol_length = 200;
+enemyHealth = 150;
 
 shoot_speed = 100;
 setProjectile(obj_peaProjectile);

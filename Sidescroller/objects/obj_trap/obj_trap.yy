@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_trap",
-    "path": "sprites/spr_trap/spr_trap.yy",
+    "name": "New_Piskel__3_",
+    "path": "sprites/New_Piskel__3_/New_Piskel__3_.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_EnemyContactKill",
+    "path": "objects/obj_EnemyContactKill/obj_EnemyContactKill.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,9 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Player_PlaceHolder","path":"objects/obj_Player_PlaceHolder/obj_Player_PlaceHolder.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
