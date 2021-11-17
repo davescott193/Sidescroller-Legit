@@ -9,8 +9,8 @@
   "swfPrecision": 2.525,
   "bbox_left": 0,
   "bbox_right": 31,
-  "bbox_top": 6,
-  "bbox_bottom": 31,
+  "bbox_top": 4,
+  "bbox_bottom": 27,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"60ffa20c-085e-45d2-93fb-8d447388e079","path":"sprites/spr_trap/spr_trap.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"60ffa20c-085e-45d2-93fb-8d447388e079","path":"sprites/spr_trap/spr_trap.yy",},"LayerId":{"name":"1faf81a8-270f-41ff-9fdc-9203e24ab38f","path":"sprites/spr_trap/spr_trap.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_trap","path":"sprites/spr_trap/spr_trap.yy",},"resourceVersion":"1.0","name":"60ffa20c-085e-45d2-93fb-8d447388e079","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a9815d04-f0b9-4de6-bd4a-8285681961c5","path":"sprites/spr_bolts/spr_bolts.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a9815d04-f0b9-4de6-bd4a-8285681961c5","path":"sprites/spr_bolts/spr_bolts.yy",},"LayerId":{"name":"3eb28006-9b91-4422-bba7-8a84263139db","path":"sprites/spr_bolts/spr_bolts.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_bolts","path":"sprites/spr_bolts/spr_bolts.yy",},"resourceVersion":"1.0","name":"a9815d04-f0b9-4de6-bd4a-8285681961c5","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_trap","path":"sprites/spr_trap/spr_trap.yy",},
+    "spriteId": {"name":"spr_bolts","path":"sprites/spr_bolts/spr_bolts.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"1b5a3b36-bab5-4110-9068-77fdffc6c0bc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"60ffa20c-085e-45d2-93fb-8d447388e079","path":"sprites/spr_trap/spr_trap.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f62aaef0-0b59-4fe1-abcb-7846cec6dcbf","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a9815d04-f0b9-4de6-bd4a-8285681961c5","path":"sprites/spr_bolts/spr_bolts.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_trap","path":"sprites/spr_trap/spr_trap.yy",},
+    "parent": {"name":"spr_bolts","path":"sprites/spr_bolts/spr_bolts.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_trap",
+    "name": "spr_bolts",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1faf81a8-270f-41ff-9fdc-9203e24ab38f","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3eb28006-9b91-4422-bba7-8a84263139db","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Tiles/Highrise.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_trap",
+  "name": "spr_bolts",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_trap",
-    "path": "sprites/spr_trap/spr_trap.yy",
+    "name": "spr_commander",
+    "path": "sprites/spr_commander/spr_commander.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_EnemyContactKill",
-    "path": "objects/obj_EnemyContactKill/obj_EnemyContactKill.yy",
+    "name": "obj_EnemyBase",
+    "path": "objects/obj_EnemyBase/obj_EnemyBase.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Highrise",
-    "path": "folders/Sprites/Tiles/Highrise.yy",
+    "name": "Level 2",
+    "path": "folders/Objects/Enemies/Level 2.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_trap",
+  "name": "obj_commander",
   "tags": [],
   "resourceType": "GMObject",
 }
