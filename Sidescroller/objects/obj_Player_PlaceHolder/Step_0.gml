@@ -262,10 +262,14 @@ if(key_menu)
 	scr_fade_out(TitleMenu, 0, 0);
 }
 
-if(keyboard_check_pressed(global.key_testroom))
+if(global.door_Camp == true)
 {
-	scr_fade_out(TestLevel, 95, 650);
+	if(keyboard_check_pressed(global.key_testroom))
+	{
+		scr_fade_out(TestLevel, 95, 650);
+	}
 }
+
 #endregion
 
 #region Enemies
@@ -314,7 +318,6 @@ if (key_attackM && equippedWeapon != noone)
 		}
 	}
 }
-#endregion
 
 if (equippedWeapon != noone)
 {
@@ -335,6 +338,7 @@ if (equippedWeapon != noone)
 	equippedWeapon.image_angle = ClampWeaponAngle(point_direction(x, y, mouse_x, mouse_y));
 }
 
+#endregion
 
 if(global.Boots = true)
 {
@@ -342,3 +346,4 @@ if(global.Boots = true)
 max_hsp = 6;
 max_vsp = 21;
 }
+

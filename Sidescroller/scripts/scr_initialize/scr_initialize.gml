@@ -21,4 +21,10 @@ function scr_initialize()
 	global.Boots = false;
 	global.key_fullscreen = vk_enter;
 	global.key_testroom = vk_tab;
+	global.door_Prologue = false;
+	global.door_TheBeach = false;
+	global.door_Caverns = false;
+	global.door_Highrise = false;
+	global.door_Camp = false;
+	global.cheat = false;
 }

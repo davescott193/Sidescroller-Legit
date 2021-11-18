@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_RoomsLabels",
-    "path": "sprites/spr_RoomsLabels/spr_RoomsLabels.yy",
+    "name": "spr_RoomLabelCaverns",
+    "path": "sprites/spr_RoomLabelCaverns/spr_RoomLabelCaverns.yy",
   },
   "solid": false,
   "visible": true,

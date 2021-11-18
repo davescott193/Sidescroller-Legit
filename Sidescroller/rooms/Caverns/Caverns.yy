@@ -14,7 +14,7 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Door","path":"objects/obj_Door/obj_Door.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":8256.0,"y":1728.0,"resourceVersion":"1.0","name":"inst_2BEE6ADB","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Door","path":"objects/obj_Door/obj_Door.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":8256.0,"y":1728.0,"resourceVersion":"1.0","name":"DoorCamp4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_CaveBossTest","path":"objects/obj_CaveBossTest/obj_CaveBossTest.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.25,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":7520.0,"y":1728.0,"resourceVersion":"1.0","name":"inst_692EC7D8","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Ammo","path":"objects/obj_Ammo/obj_Ammo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6464.0,"y":2240.0,"resourceVersion":"1.0","name":"inst_4EB63D8B","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Ammo","path":"objects/obj_Ammo/obj_Ammo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6464.0,"y":2048.0,"resourceVersion":"1.0","name":"inst_30F921A9","tags":[],"resourceType":"GMRInstance",},
@@ -558,6 +558,7 @@
         {"spriteId":{"name":"spr_BG2","path":"sprites/spr_BG2/spr_BG2.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.4,"scaleY":3.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3648.0,"y":3104.0,"resourceVersion":"1.0","name":"graphic_2F7DE94D","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"spr_BG2","path":"sprites/spr_BG2/spr_BG2.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":8.599999,"scaleY":3.6,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":4096.0,"y":3008.0,"resourceVersion":"1.0","name":"graphic_535B9B52","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"spr_BG2","path":"sprites/spr_BG2/spr_BG2.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.6,"scaleY":3.4,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":3872.0,"y":3040.0,"resourceVersion":"1.0","name":"graphic_3345AB2A","tags":[],"resourceType":"GMRSpriteGraphic",},
+        {"spriteId":{"name":"spr_doorlocked","path":"sprites/spr_doorlocked/spr_doorlocked.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":8256.0,"y":1728.0,"resourceVersion":"1.0","name":"graphic_2E5D69C","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
     {"spriteId":null,"colour":4283849568,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -1028,7 +1029,7 @@
     {"name":"inst_42367A1B","path":"rooms/Caverns/Caverns.yy",},
     {"name":"inst_3142D66E","path":"rooms/Caverns/Caverns.yy",},
     {"name":"inst_6E4554C9","path":"rooms/Caverns/Caverns.yy",},
-    {"name":"inst_2BEE6ADB","path":"rooms/Caverns/Caverns.yy",},
+    {"name":"DoorCamp4","path":"rooms/Caverns/Caverns.yy",},
     {"name":"inst_692EC7D8","path":"rooms/Caverns/Caverns.yy",},
     {"name":"inst_4EB63D8B","path":"rooms/Caverns/Caverns.yy",},
     {"name":"inst_30F921A9","path":"rooms/Caverns/Caverns.yy",},

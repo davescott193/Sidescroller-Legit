@@ -23,6 +23,18 @@ if(place_meeting(x+hsp, y, obj_TileParent))
 	}
 }
 
+if(place_meeting(x+hsp, y, obj_TileInvisParent))
+{
+	var onepixel = sign(hsp);
+	while(!place_meeting(x+onepixel, y, obj_TileInvisParent) )x += onepixel;
+	{
+		hsp = 0;
+		//Change direction
+		current_dir *= -1; 
+		image_xscale *= -1;
+	}
+}
+
 if(place_meeting(x+hsp, y, obj_EnemyBase))
 {
 	var onepixel = sign(hsp);
