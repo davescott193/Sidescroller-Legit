@@ -42,6 +42,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_AlienRanged","path":"objects/obj_AlienRanged/obj_AlienRanged.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":800.0,"y":3520.0,"resourceVersion":"1.0","name":"inst_41C683F1","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_CavernBoxController","path":"objects/obj_CavernBoxController/obj_CavernBoxController.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.2,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6976.0,"y":1728.0,"resourceVersion":"1.0","name":"inst_7042B53D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Blocker","path":"objects/obj_Blocker/obj_Blocker.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":3.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":6624.0,"y":1696.0,"resourceVersion":"1.0","name":"inst_1A1E3464","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_Player_PlaceHolder","path":"objects/obj_Player_PlaceHolder/obj_Player_PlaceHolder.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":4064.0,"y":1472.0,"resourceVersion":"1.0","name":"inst_3F348703","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Fade","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
@@ -1057,6 +1058,7 @@
     {"name":"inst_41C683F1","path":"rooms/Caverns/Caverns.yy",},
     {"name":"inst_7042B53D","path":"rooms/Caverns/Caverns.yy",},
     {"name":"inst_1A1E3464","path":"rooms/Caverns/Caverns.yy",},
+    {"name":"inst_3F348703","path":"rooms/Caverns/Caverns.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

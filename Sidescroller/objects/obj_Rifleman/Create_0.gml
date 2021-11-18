@@ -3,10 +3,9 @@
 
 event_inherited()
 setProjectile(obj_EnemyBullet)
-shoot_speed = 5
+shoot_speed = 10
+burstAmount = 4
+burstCount = burstAmount
+burstDelay = 150
 
-burstTimer = 15
-burstDelay = 80
-
-burstTimerCount = burstTimer
-burstDelayCount = burstDelay
+alarm[0] = shoot_speed

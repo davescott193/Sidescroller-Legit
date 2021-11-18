@@ -3,10 +3,10 @@
 
 event_inherited()
 setProjectile(obj_AlienBullet)
-shoot_speed = 5
 
-burstTimer = 25
+shoot_speed = 10
+burstAmount = 3
+burstCount = burstAmount
 burstDelay = 150
 
-burstTimerCount = burstTimer
-burstDelayCount = burstDelay
+alarm[0] = shoot_speed
