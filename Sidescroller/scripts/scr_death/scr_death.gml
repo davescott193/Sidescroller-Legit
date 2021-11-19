@@ -10,7 +10,7 @@ function scr_death()
 	
 	if(!audio_is_playing(snd_Death))
 	{
-	audio_play_sound(snd_Death, 1, 0);
+		audio_play_sound(snd_Death, 1, 0);
 	}
 	
 	if(!file_exists("Save.sav"))

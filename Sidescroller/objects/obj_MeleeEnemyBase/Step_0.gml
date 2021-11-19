@@ -90,6 +90,9 @@ if (place_meeting(x,y,obj_Player_PlaceHolder))
 {
 	if (canAttack)
 	{
+		if(!audio_is_playing(snd_PlayerHit))
+			audio_play_sound(snd_PlayerHit, 1, 0)
+
 		player = instance_find(obj_Player_PlaceHolder,0)
 		player.playerHealth -= attackDamage
 		if (player.playerHealth <= 0 )

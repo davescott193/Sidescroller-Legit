@@ -3,6 +3,7 @@
 
 event_inherited()
 setProjectile(obj_EnemyBullet)
+setShootSound(snd_GunshotEnemy)
 shoot_speed = 10
 burstAmount = 4
 burstCount = burstAmount
