@@ -3,7 +3,7 @@
 
 event_inherited()
 setProjectile(obj_AlienBullet)
-setShootSound(snd_AlienBlaster)
+
 shoot_speed = 10
 burstAmount = 3
 burstCount = burstAmount

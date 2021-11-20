@@ -5,40 +5,35 @@ event_inherited();
 
 hsp = 0;
 vsp = 0;
-max_distance = 720;
-max_angle = 45;
+max_distance = 750;
+max_angle = 23;
 speedval = 5;
 patrol_length = 200;
 
 shoot_speed = 100;
 
 
-function setProjectile(proj)
-{
-	_projectile = proj
-}
-
-function setShootSound(sound)
-{
-	_sound = sound	
-}
-
 function TrackShoot()
 {
-	if (player != noone && point_distance(x,y+32,player.x,player.y) < max_distance)
+	if (player != noone && point_distance(x,y+32,player.x,player.y) < 720)
 	{
 	//check if player is within shooting angle ie 45 degrees
 		dirToPlayer = point_direction(x,y+32,player.x,player.y)
-		if ( abs(angle_difference(direction, dirToPlayer) < max_angle) )
+		if ( abs(angle_difference(direction, dirToPlayer) < 45) )
 		{
 
 				projec = instance_create_layer(x,y+22,layer,_projectile)
-				audio_play_sound(_sound, 1, 0)
 				if (projec != noone)
 					projec.direction = dirToPlayer
 		
+		
 		}
 	}
+}
+
+function setProjectile(proj)
+{
+	_projectile = proj
 }
 
 function ShootHorizontal() 

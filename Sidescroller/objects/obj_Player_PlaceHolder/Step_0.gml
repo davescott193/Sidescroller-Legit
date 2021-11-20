@@ -306,8 +306,7 @@ if (key_attackM && equippedWeapon != noone)
 		if (ammo > 0 && equippedWeapon.m_canAttack)
 		{
 			projdir = ClampWeaponAngle(point_direction(equippedWeapon.x,equippedWeapon.y, mouse_x, mouse_y));
-			
-			audio_play_sound(snd_Gunshot, 1, 0)			
+    
 			proj = instance_create_layer(equippedWeapon.x,equippedWeapon.y,layer,current_proj);
 			proj.image_angle = projdir;
 			proj.direction = projdir;
