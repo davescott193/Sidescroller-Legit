@@ -3,16 +3,4 @@
 
 ShootHorizontal();
 
-TrackShoot()
-
-burstCount --
-
-if(burstCount <= 0)
-{
-	alarm[0] = burstDelay
-	burstCount = burstAmount
-}
-else
-{
-	alarm[0] = shoot_speed
-}
+alarm[0] = shoot_speed;
