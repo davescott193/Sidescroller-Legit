@@ -26,7 +26,9 @@
   "frames": [
     {"compositeImage":{"FrameId":{"name":"a9815d04-f0b9-4de6-bd4a-8285681961c5","path":"sprites/spr_bolts/spr_bolts.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"a9815d04-f0b9-4de6-bd4a-8285681961c5","path":"sprites/spr_bolts/spr_bolts.yy",},"LayerId":{"name":"3eb28006-9b91-4422-bba7-8a84263139db","path":"sprites/spr_bolts/spr_bolts.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_bolts","path":"sprites/spr_bolts/spr_bolts.yy",},"resourceVersion":"1.0","name":"a9815d04-f0b9-4de6-bd4a-8285681961c5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"85368f6d-54d9-48a1-bf85-598c9a08d4d9","path":"sprites/spr_bolts/spr_bolts.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"85368f6d-54d9-48a1-bf85-598c9a08d4d9","path":"sprites/spr_bolts/spr_bolts.yy",},"LayerId":{"name":"81578b66-1b00-44a0-90e1-0a619e6519e8","path":"sprites/spr_bolts/spr_bolts.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_bolts","path":"sprites/spr_bolts/spr_bolts.yy",},"resourceVersion":"1.0","name":"85368f6d-54d9-48a1-bf85-598c9a08d4d9","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_bolts","path":"sprites/spr_bolts/spr_bolts.yy",},
@@ -42,6 +44,7 @@
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"f62aaef0-0b59-4fe1-abcb-7846cec6dcbf","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a9815d04-f0b9-4de6-bd4a-8285681961c5","path":"sprites/spr_bolts/spr_bolts.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"54b14c73-8363-462a-bb5f-8d83bcce0279","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"85368f6d-54d9-48a1-bf85-598c9a08d4d9","path":"sprites/spr_bolts/spr_bolts.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -66,6 +69,7 @@
   },
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3eb28006-9b91-4422-bba7-8a84263139db","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"81578b66-1b00-44a0-90e1-0a619e6519e8","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
